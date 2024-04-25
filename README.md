@@ -1,4 +1,3 @@
-
 # Collaborative Filtering via Gaussian Mixtures on Netflix Data
 
 ## Introduction
