@@ -7,7 +7,7 @@
 This project aims to build a mixture model for collaborative filtering using Gaussian mixtures. The dataset used consists of movie ratings provided by users, extracted from a subset of the Netflix database. Since users have rated only a small fraction of the movies, the dataset is partially filled. The objective is to predict the missing entries in the matrix.
 
 
-## Approach
+# Approach
 
 We employ mixtures of Gaussians to tackle this problem. The underlying assumption is that each user's rating profile is a sample from a mixture model. In other words, there are K potential types of users, and within the context of each user, we need to sample a user type and then the rating profile from the Gaussian distribution associated with that type. To estimate this mixture from the partially observed rating matrix, we utilize the Expectation Maximization (EM) algorithm.
 
