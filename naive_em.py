@@ -3,8 +3,6 @@ from typing import Tuple
 import numpy as np
 from common import GaussianMixture
 
-
-
 def estep(X: np.ndarray, mixture: GaussianMixture) -> Tuple[np.ndarray, float]:
     """E-step: Softly assigns each datapoint to a gaussian component
 
