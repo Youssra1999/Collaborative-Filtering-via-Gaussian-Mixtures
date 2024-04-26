@@ -4,7 +4,6 @@ import numpy as np
 from matplotlib import pyplot as plt
 from matplotlib.patches import Circle, Arc
 
-
 class GaussianMixture(NamedTuple):
     """Tuple holding a gaussian mixture"""
     mu: np.ndarray  # (K, d) array - each row corresponds to a gaussian component mean
