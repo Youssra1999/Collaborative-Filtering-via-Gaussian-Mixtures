@@ -2,7 +2,7 @@
 
 ## Introduction
 
-<img src="https://github.com/Youssra1999/Collaborative-Filtering-via-Gaussian-Mixtures/blob/main/Pink%20Black%20Photocentric%20Neon%20Tech%20Talk%20Podcast%20Instagram%20Post%20(2).png" alt="Image" width="200" align="left">
+<img src="https://github.com/Youssra1999/Collaborative-Filtering-via-Gaussian-Mixtures/blob/main/Pink%20Black%20Photocentric%20Neon%20Tech%20Talk%20Podcast%20Instagram%20Post%20(2).png" alt="Image" width="150" align="left">
 
 This project aims to build a mixture model for collaborative filtering using Gaussian mixtures. The dataset used consists of movie ratings provided by users, extracted from a subset of the Netflix database. Since users have rated only a small fraction of the movies, the dataset is partially filled. The objective is to predict the missing entries in the matrix.
 
