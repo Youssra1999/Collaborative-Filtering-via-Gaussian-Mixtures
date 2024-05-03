@@ -44,4 +44,4 @@ To use the collaborative filtering model:
 
 ## References
 
-- T. Hofmann, "Collaborative Filtering via Gaussian Probabilistic Latent Semantic Analysis," SIGIR 2004.
+- [T. Hofmann, "Collaborative Filtering via Gaussian Probabilistic Latent Semantic Analysis," SIGIR 2004.](Collaborative_Filtering_via_Gaussian_Probabilistic.pdf)
